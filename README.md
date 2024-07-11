@@ -1,4 +1,4 @@
-# CapstoneProject-MariSehat
+# Capstone Project at Microsoft Indonesia (by Mari Belajar) - Magang dan Studi Independen (MSIB) Kampus Merdeka Batch 1
 
 # Analisis Data COVID-19 Jawa Timur
 
