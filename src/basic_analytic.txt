@@ -1,0 +1,7 @@
+Analisis Dasar
+Mari kita lakukan beberapa analisis dasar:
+
+- Statistik Deskriptif: Rangkuman statistik untuk kolom numerik.
+- Tren Kasus Harian: Visualisasi tren kasus baru harian.
+- Tren Kematian Harian: Visualisasi tren kematian baru harian.
+- Rasio Fatalitas Kasus dan Tingkat Pemulihan: Rata-rata rasio fatalitas kasus dan tingkat pemulihan.
