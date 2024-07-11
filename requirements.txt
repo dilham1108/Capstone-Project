@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Libraries for data manipulation and analysis
+pandas>=1.0.0
+numpy>=1.18.0
+
+# Libraries for database connectivity
+psycopg2>=2.8.6
+
+# Libraries for data visualization
+matplotlib>=3.2.0
+seaborn>=0.10.0
+
+# Optional: Libraries for machine learning or data processing
+scikit-learn>=0.23.0
+tensorflow>=2.0.0
+
+# Optional: Libraries for web frameworks (if applicable)
+flask>=1.1.0
+django>=3.0.0
