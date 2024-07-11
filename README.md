@@ -59,6 +59,3 @@ plt.xticks(rotation=45)
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
-![Tren Kasus Baru Harian](docs/tren_kasus_baru.PNG)
-![Tren Kematian Baru Harian](docs/tren_kematian.PNG)
